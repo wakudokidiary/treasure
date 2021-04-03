@@ -21,6 +21,8 @@ $(function() {
 
 // ここまでメニュー
 
+$('h1').hide().fadeIn('slow');
+
 
 
 
